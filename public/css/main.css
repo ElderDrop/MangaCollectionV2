@@ -1,0 +1,23 @@
+.volumes-cards{
+    width: 20%;
+    box-sizing: border-box;
+    flex-grow: 1;
+
+}
+.volume-container{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-grow: 1;
+}
+.width-200 {
+    width: 200px;
+}
+#appbundle_manga_genres{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-grow: 1;
+}
